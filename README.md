@@ -21,3 +21,6 @@ Version Control with Git (Atlassian University) : https://www.coursera.org/learn
 
 Solved problems of Java on Hackerrank. The solutions of the same are uploaded on the github repository:
 Hackerrank-Java : https://github.com/shashwat9kumar/Hackerrank-Java
+
+Solved problems of Number Theory on geeksforgeeks. The solutions of the same are uploaded on the github repository:
+Practice_geeksforgeeks :  https://github.com/shashwat9kumar/Practice_geeksforgeeks
