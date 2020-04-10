@@ -34,3 +34,10 @@ Version Control with Git (Atlassian University) : https://www.coursera.org/learn
 Started Studying collections in Java (from youtube videos) : 
 Collections in Java : https://www.youtube.com/playlist?list=PLd3UqWTnYXOkVR3OR9UZGyEt9RFUbaTMZ
 Studies about Collection, Collection Framework, it's need, it's superiority and 9 key interfaces of the Collection framework
+
+
+
+## Day 5
+Studies JDBC (Java Database Connectivity) for executing sql queries from java program
+
+Also started solving past problems of google competitions (kickstart 2020 Round A today)
