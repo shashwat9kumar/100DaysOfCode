@@ -50,3 +50,6 @@ Competitive Programming LIVE Webinar (Maths | C++ STL) : https://www.youtube.com
 
 Solved problems from the videos from Maathematical topics and uploaded them on the github repository : 
 Competitive_programming : https://github.com/shashwat9kumar/Competitive_programming
+
+Solved problems of Java on Hackerrank. The solutions of the same are uploaded on the github repository:
+Hackerrank-Java : https://github.com/shashwat9kumar/Hackerrank-Java
