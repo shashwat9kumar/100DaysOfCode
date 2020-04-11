@@ -41,3 +41,12 @@ Studies about Collection, Collection Framework, it's need, it's superiority and 
 Studies JDBC (Java Database Connectivity) for executing sql queries from java program
 
 Also started solving past problems of google competitions (kickstart 2020 Round A today)
+
+
+
+## Day 6
+Started studying Mathematics and STL form competitive programming (from youtube) : 
+Competitive Programming LIVE Webinar (Maths | C++ STL) : https://www.youtube.com/watch?v=t27W1yUrYmM&t=5676s
+
+Solved problems from the videos from Maathematical topics and uploaded them on the github repository : 
+Competitive_programming : https://github.com/shashwat9kumar/Competitive_programming
