@@ -62,4 +62,4 @@ Version Control with Git (Atlassian University) : https://www.coursera.org/learn
 
 Studied collections in Java (from youtube videos) : 
 Collections in Java : https://www.youtube.com/playlist?list=PLd3UqWTnYXOkVR3OR9UZGyEt9RFUbaTMZ
-Studies about Collection, List, Set, SortedSet, NavigableSet, Queue, Map, SortedMap and NavigableMap Interfaces
+Studied about Collection, List, Set, SortedSet, NavigableSet, Queue, Map, SortedMap and NavigableMap Interfaces
