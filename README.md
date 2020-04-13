@@ -6,12 +6,14 @@ Practice_geeksforgeeks :  https://github.com/shashwat9kumar/Practice_geeksforgee
 
 
 
+
 ## Day 2 : 7th March, 2020
 Solved problems of Number Theory on geeksforgeeks. The solutions of the same are uploaded on the github repository:
 Practice_geeksforgeeks :  https://github.com/shashwat9kumar/Practice_geeksforgeeks
 
 Solved problems of Java on Hackerrank. The solutions of the same are uploaded on the github repository:
 Hackerrank-Java : https://github.com/shashwat9kumar/Hackerrank-Java
+
 
 
 
@@ -27,6 +29,7 @@ Practice_geeksforgeeks :  https://github.com/shashwat9kumar/Practice_geeksforgee
 
 
 
+
 ## Day 4 : 9th March, 2020
 Studied git from Coursera course :
 Version Control with Git (Atlassian University) : https://www.coursera.org/learn/version-control-with-git/home/welcome
@@ -37,10 +40,12 @@ Studies about Collection, Collection Framework, it's need, it's superiority and 
 
 
 
+
 ## Day 5 : 10th March, 2020
 Studies JDBC (Java Database Connectivity) for executing sql queries from java program
 
 Also started solving past problems of google competitions (kickstart 2020 Round A today)
+
 
 
 
@@ -56,6 +61,7 @@ Hackerrank-Java : https://github.com/shashwat9kumar/Hackerrank-Java
 
 
 
+
 ## Day 7 : 12th March, 2020
 Studied git from Coursera course :
 Version Control with Git (Atlassian University) : https://www.coursera.org/learn/version-control-with-git/home/welcome
@@ -63,3 +69,11 @@ Version Control with Git (Atlassian University) : https://www.coursera.org/learn
 Studied collections in Java (from youtube videos) : 
 Collections in Java : https://www.youtube.com/playlist?list=PLd3UqWTnYXOkVR3OR9UZGyEt9RFUbaTMZ
 Studied about Collection, List, Set, SortedSet, NavigableSet, Queue, Map, SortedMap and NavigableMap Interfaces
+
+
+
+
+## Day 8 : 13th March, 2020
+Completed git course from Coursera :
+Version Control with Git (Atlassian University) : https://www.coursera.org/learn/version-control-with-git/home/welcome
+View the certificate here : https://coursera.org/share/76717e97e0def58bd27daff0403884e6
