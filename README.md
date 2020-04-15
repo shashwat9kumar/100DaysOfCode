@@ -86,4 +86,4 @@ Started HTML 5 course from coursera
 Introduction to HTML5 (University of Michigan) : https://www.coursera.org/learn/html/home/welcome
 
 Uploaded the html files on github repository :
-shashwat9kumar / Web-Development-Specialization / HTML 5 : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
+Web-Development-Specialization / HTML 5 : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
