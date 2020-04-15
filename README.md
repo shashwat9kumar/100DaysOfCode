@@ -87,3 +87,13 @@ Introduction to HTML5 (University of Michigan) : https://www.coursera.org/learn/
 
 Uploaded the html files on github repository :
 Web-Development-Specialization / HTML 5 : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
+
+
+
+
+## Day 10 : 15th March, 2020
+Studied HTML 5 course from coursera
+Introduction to HTML5 (University of Michigan) : https://www.coursera.org/learn/html/home/welcome
+
+Uploaded the html files on github repository :
+Web-Development-Specialization / HTML 5 : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
