@@ -77,3 +77,13 @@ Studied about Collection, List, Set, SortedSet, NavigableSet, Queue, Map, Sorted
 Completed git course from Coursera :
 Version Control with Git (Atlassian University) : https://www.coursera.org/learn/version-control-with-git/home/welcome
 View the certificate here : https://coursera.org/share/76717e97e0def58bd27daff0403884e6
+
+
+
+
+## Day 9 : 14th March, 2020
+Started HTML 5 course from coursera
+Introduction to HTML5 (University of Michigan) : https://www.coursera.org/learn/html/home/welcome
+
+Uploaded the html files on github repository :
+shashwat9kumar / Web-Development-Specialization / HTML 5 : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
