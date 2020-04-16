@@ -1,13 +1,13 @@
 # 100DaysOfCode 
 
-## Day 1 : 6th March, 2020
+## Day 1 : 6th April, 2020
 Started to study Number Theory. Started solving problems from geeksforgeeks and uploaded the solved peoblems on the github repository:
 Practice_geeksforgeeks :  https://github.com/shashwat9kumar/Practice_geeksforgeeks
 
 
 
 
-## Day 2 : 7th March, 2020
+## Day 2 : 7th April, 2020
 Solved problems of Number Theory on geeksforgeeks. The solutions of the same are uploaded on the github repository:
 Practice_geeksforgeeks :  https://github.com/shashwat9kumar/Practice_geeksforgeeks
 
@@ -17,7 +17,7 @@ Hackerrank-Java : https://github.com/shashwat9kumar/Hackerrank-Java
 
 
 
-## Day 3 : 8th March, 2020
+## Day 3 : 8th April, 2020
 Studied git from Coursera course :
 Version Control with Git (Atlassian University) : https://www.coursera.org/learn/version-control-with-git/home/welcome
 
@@ -30,7 +30,7 @@ Practice_geeksforgeeks :  https://github.com/shashwat9kumar/Practice_geeksforgee
 
 
 
-## Day 4 : 9th March, 2020
+## Day 4 : 9th April, 2020
 Studied git from Coursera course :
 Version Control with Git (Atlassian University) : https://www.coursera.org/learn/version-control-with-git/home/welcome
 
@@ -41,7 +41,7 @@ Studies about Collection, Collection Framework, it's need, it's superiority and 
 
 
 
-## Day 5 : 10th March, 2020
+## Day 5 : 10th April, 2020
 Studies JDBC (Java Database Connectivity) for executing sql queries from java program
 
 Also started solving past problems of google competitions (kickstart 2020 Round A today)
@@ -49,7 +49,7 @@ Also started solving past problems of google competitions (kickstart 2020 Round 
 
 
 
-## Day 6 : 11th March, 2020
+## Day 6 : 11th April, 2020
 Started studying Mathematics and STL form competitive programming (from youtube) : 
 Competitive Programming LIVE Webinar (Maths | C++ STL) : https://www.youtube.com/watch?v=t27W1yUrYmM&t=5676s
 
@@ -62,7 +62,7 @@ Hackerrank-Java : https://github.com/shashwat9kumar/Hackerrank-Java
 
 
 
-## Day 7 : 12th March, 2020
+## Day 7 : 12th April, 2020
 Studied git from Coursera course :
 Version Control with Git (Atlassian University) : https://www.coursera.org/learn/version-control-with-git/home/welcome
 
@@ -73,7 +73,7 @@ Studied about Collection, List, Set, SortedSet, NavigableSet, Queue, Map, Sorted
 
 
 
-## Day 8 : 13th March, 2020
+## Day 8 : 13th April, 2020
 Completed git course from Coursera :
 Version Control with Git (Atlassian University) : https://www.coursera.org/learn/version-control-with-git/home/welcome
 View the certificate here : https://coursera.org/share/76717e97e0def58bd27daff0403884e6
@@ -81,7 +81,7 @@ View the certificate here : https://coursera.org/share/76717e97e0def58bd27daff04
 
 
 
-## Day 9 : 14th March, 2020
+## Day 9 : 14th April, 2020
 Started HTML 5 course from coursera
 Introduction to HTML5 (University of Michigan) : https://www.coursera.org/learn/html/home/welcome
 
@@ -91,7 +91,7 @@ Web-Development-Specialization / HTML 5 : https://github.com/shashwat9kumar/Web-
 
 
 
-## Day 10 : 15th March, 2020
+## Day 10 : 15th April, 2020
 Studied HTML 5 course from coursera
 Introduction to HTML5 (University of Michigan) : https://www.coursera.org/learn/html/home/welcome
 
@@ -101,7 +101,7 @@ Web-Development-Specialization / HTML 5 : https://github.com/shashwat9kumar/Web-
 
 
 
-## Day 10 : 15th March, 2020
+## Day 11 : 16th April, 2020
 Studied HTML 5 course from coursera
 Introduction to HTML5 (University of Michigan) : https://www.coursera.org/learn/html/home/welcome
 
