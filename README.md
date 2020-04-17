@@ -107,3 +107,10 @@ Introduction to HTML5 (University of Michigan) : https://www.coursera.org/learn/
 
 Uploaded the html files on github repository :
 Web-Development-Specialization / HTML 5 : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
+
+
+
+
+## Day 12 : 17th April, 2020
+Studied JDBC (Java Data Base Connectivity) to connect Java program to a SQL database thereby implementing SQL queries via a java program
+The SQL database was used from MySQL, SQLPlus and XAMPP
