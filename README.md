@@ -121,3 +121,10 @@ The SQL database was used from MySQL, SQLPlus and XAMPP
 ## Day 13 : 18th April, 2020
 Studied JDBC (Java Data Base Connectivity) to connect Java program to a SQL database thereby implementing SQL queries via a java program
 The SQL database was used from MySQL, SQLPlus and XAMPP
+
+
+
+
+## Day 13 : 18th April, 2020
+Solved problems of Google Kickstart today. Round B occurred from 4:30 AM to 7:30 AM.
+Submission for Google Kickstart : https://codingcompetitions.withgoogle.com/kickstart/submissions/000000000019ffc8/c2hhc2h3YXQ5a3VtYXI
