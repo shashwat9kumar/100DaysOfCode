@@ -128,3 +128,6 @@ The SQL database was used from MySQL, SQLPlus and XAMPP
 ## Day 14 : 19th April, 2020
 Solved problems of Google Kickstart today. Round B occurred from 4:30 AM to 7:30 AM.
 Submission for Google Kickstart : https://codingcompetitions.withgoogle.com/kickstart/submissions/000000000019ffc8/c2hhc2h3YXQ5a3VtYXI
+
+Solved problems of C++ on Hackerrank. The solutions of the same are uploaded on the github repository:
+Hackerrank-cpp : https://github.com/shashwat9kumar/Hackerrank-cpp
