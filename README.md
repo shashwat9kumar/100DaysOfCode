@@ -131,3 +131,13 @@ Submission for Google Kickstart : https://codingcompetitions.withgoogle.com/kick
 
 Solved problems of C++ on Hackerrank. The solutions of the same are uploaded on the github repository:
 Hackerrank-cpp : https://github.com/shashwat9kumar/Hackerrank-cpp
+
+
+
+
+## Day 15 : 20th April, 2020
+Studied HTML 5 course from coursera
+Introduction to HTML5 (University of Michigan) : https://www.coursera.org/learn/html/home/welcome
+
+Uploaded the html files on github repository :
+Web-Development-Specialization / HTML 5 : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
