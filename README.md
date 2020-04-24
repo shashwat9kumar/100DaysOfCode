@@ -171,3 +171,11 @@ Practice_geeksforgeeks :  https://github.com/shashwat9kumar/Practice_geeksforgee
 
 Studies JDBC (Java Database Connectivity) from Youtube. Uploaded the done works on the github repository :
 OOPS-Sem4-lab : https://github.com/shashwat9kumar/OOPS-Sem4-lab
+
+
+
+
+## Day 19 : 24th April, 2020
+Solved problems of Number Theory on geeksforgeeks. The solutions of the same are uploaded on the github repository:
+Practice_geeksforgeeks :  https://github.com/shashwat9kumar/Practice_geeksforgeeks
+
