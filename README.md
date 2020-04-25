@@ -179,3 +179,12 @@ OOPS-Sem4-lab : https://github.com/shashwat9kumar/OOPS-Sem4-lab
 Solved problems of Number Theory on geeksforgeeks. The solutions of the same are uploaded on the github repository:
 Practice_geeksforgeeks :  https://github.com/shashwat9kumar/Practice_geeksforgeeks
 
+
+
+
+## Day 20 : 25th April, 2020
+Solved problems of Number Theory on geeksforgeeks. The solutions of the same are uploaded on the github repository:
+Practice_geeksforgeeks : https://github.com/shashwat9kumar/Practice_geeksforgeeks
+
+Solved problems of Codeintine on Skillenza. The solutions of the same are uploaded on the github repository:
+Practice_geeksforgeeks : https://github.com/shashwat9kumar/Competitive_programming
