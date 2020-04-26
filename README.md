@@ -188,3 +188,12 @@ Practice_geeksforgeeks : https://github.com/shashwat9kumar/Practice_geeksforgeek
 
 Solved problems of Codeintine on Skillenza. The solutions of the same are uploaded on the github repository:
 Practice_geeksforgeeks : https://github.com/shashwat9kumar/Competitive_programming
+
+
+
+
+## Day 21 : 26th April, 2020
+Solved problems of Number Theory on geeksforgeeks. The solutions of the same are uploaded on the github repository:
+Practice_geeksforgeeks : https://github.com/shashwat9kumar/Practice_geeksforgeeks
+
+Studied about Serverlets in Java from Youtube. Learnt about installation of Tomcat server, its configuration in eclipse, writing my first serverlet page.
