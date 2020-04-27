@@ -197,3 +197,12 @@ Solved problems of Number Theory on geeksforgeeks. The solutions of the same are
 Practice_geeksforgeeks : https://github.com/shashwat9kumar/Practice_geeksforgeeks
 
 Studied about Serverlets in Java from Youtube. Learnt about installation of Tomcat server, its configuration in eclipse, writing my first serverlet page.
+
+
+
+
+## Day 22 : 27th April, 2020
+Solved problems of Java on Hackerrank. The solutions of the same are uploaded on the github repository:
+Hackerrank-Java : https://github.com/shashwat9kumar/Hackerrank-Java
+
+Studied about Serverlets in Java from Youtube. Learnt about web.xml, learnt how to host HTML pages on Tomcat, and get() and post() methods of actions tag in html.
