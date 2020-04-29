@@ -215,3 +215,12 @@ Solved problems of Java on Hackerrank. The solutions of the same are uploaded on
 Hackerrank-Java : https://github.com/shashwat9kumar/Hackerrank-Java
 
 Studied about Collections Interface in Java. Learnt about the implementation and use of ArrayList and HashSet in Collection classes in Java.
+
+
+
+
+## Day 24 : 29th April, 2020
+Studied Servlets in Java. Learnt about web.xml, HttpRequest and HttpResponse and ServletConfig and ServletContext. Also Studied about post and get methods in Servlets.
+
+Solved problems of Problem solving of Hackerrank on Algorithms and uploaded the solutions on Github repository
+HackerRank-ProblemSolving : https://github.com/shashwat9kumar/HackerRank-ProblemSolving
