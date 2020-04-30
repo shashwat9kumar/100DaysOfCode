@@ -224,3 +224,13 @@ Studied Servlets in Java. Learnt about web.xml, HttpRequest and HttpResponse and
 
 Solved problems of Problem solving of Hackerrank on Algorithms and uploaded the solutions on Github repository
 HackerRank-ProblemSolving : https://github.com/shashwat9kumar/HackerRank-ProblemSolving
+
+
+
+
+## Day 25 : 30th April, 2020
+olved problems of Problem solving on Hackerrank of Algorithms and uploaded the solutions on Github repository
+HackerRank-ProblemSolving : https://github.com/shashwat9kumar/HackerRank-ProblemSolving
+
+Studied HTML5. Learnt about different tags and their usage in a html file. Uploaded the codes on github repository.
+Web-Development-Specialization/HTML5 : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
