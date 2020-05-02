@@ -244,3 +244,10 @@ HackerRank-ProblemSolving : https://github.com/shashwat9kumar/HackerRank-Problem
 
 Solved problems of on Hackerrank of Mathematics and uploaded the solutions on Github repository.
 Competitive_programming/Hackerrank-Mathematics : https://github.com/shashwat9kumar/Competitive_programming/tree/master/Hackerrank-Mathematics
+
+
+
+
+## Day 26 : 2nd May, 2020
+Solved problems of Problem solving on Hackerrank of Algorithms and uploaded the solutions on Github repository
+HackerRank-ProblemSolving : https://github.com/shashwat9kumar/HackerRank-ProblemSolving
