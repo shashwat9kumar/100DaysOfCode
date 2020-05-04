@@ -265,3 +265,5 @@ HackerRank-ProblemSolving : https://github.com/shashwat9kumar/HackerRank-Problem
 ## Day 29 : 4th May, 2020
 Solved problems of Problem solving on CodeChef for May 2020 challenge and uploaded the solutions on Github repository
 Competitive_programming/CodeChef/May2020 : https://github.com/shashwat9kumar/Competitive_programming/tree/master/CodeChef/May2020
+
+Studied about Servlets and JSP in Java. Studied about configuring MySQL server and TomCat in eclipse. Studied about creating Dynamic Web Projects with SQL configurations 
