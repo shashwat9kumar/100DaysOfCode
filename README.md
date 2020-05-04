@@ -258,3 +258,10 @@ HackerRank-ProblemSolving : https://github.com/shashwat9kumar/HackerRank-Problem
 ## Day 28 : 3rd May, 2020
 Solved problems of Problem solving on Hackerrank of Algorithms and Data Structures and uploaded the solutions on Github repository
 HackerRank-ProblemSolving : https://github.com/shashwat9kumar/HackerRank-ProblemSolving
+
+
+
+
+## Day 29 : 4th May, 2020
+Solved problems of Problem solving on CodeChef for May 2020 challenge and uploaded the solutions on Github repository
+Competitive_programming/CodeChef/May2020 : https://github.com/shashwat9kumar/Competitive_programming/tree/master/CodeChef/May2020
