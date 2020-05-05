@@ -267,3 +267,10 @@ Solved problems of Problem solving on CodeChef for May 2020 challenge and upload
 Competitive_programming/CodeChef/May2020 : https://github.com/shashwat9kumar/Competitive_programming/tree/master/CodeChef/May2020
 
 Studied about Servlets and JSP in Java. Studied about configuring MySQL server and TomCat in eclipse. Studied about creating Dynamic Web Projects with SQL configurations 
+
+
+
+
+## Day 30 : 5th May, 2020
+Studied HTML5. Learnt about different tags (table, list, img, etc) and their usage in a html file. Uploaded the codes on github repository.
+Web-Development-Specialization/HTML5 : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
