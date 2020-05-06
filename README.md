@@ -274,3 +274,15 @@ Studied about Servlets and JSP in Java. Studied about configuring MySQL server a
 ## Day 30 : 5th May, 2020
 Studied HTML5. Learnt about different tags (table, list, img, etc) and their usage in a html file. Uploaded the codes on github repository.
 Web-Development-Specialization/HTML5 : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
+
+
+
+
+## Day 31 : 6th May, 2020
+Studied about blockchain. Implemented blockchain in Java. Uploaded the files on github repository.
+MyBlockchainProject : https://github.com/shashwat9kumar/MyBlockchainProject/tree/master/src/myPackage
+
+Study Material : Medium
+https://medium.com/programmers-blockchain/blockchain-development-mega-guide-5a316e6d10df#c69e
+https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa
+https://medium.com/programmers-blockchain/creating-your-first-blockchain-with-java-part-2-transactions-2cdac335e0ce
