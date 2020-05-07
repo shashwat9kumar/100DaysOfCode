@@ -286,3 +286,13 @@ Study Material : Medium
 https://medium.com/programmers-blockchain/blockchain-development-mega-guide-5a316e6d10df#c69e
 https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa
 https://medium.com/programmers-blockchain/creating-your-first-blockchain-with-java-part-2-transactions-2cdac335e0ce
+
+
+
+
+## Day 32 : 7th May, 2020
+Created a java project on HackerEarth and uploaded the code on GitHub repository
+My-Projects/HackerEarth : https://github.com/shashwat9kumar/My-Projects/tree/master/HackerEarth
+
+Studied about smart contract in Etherium Blockchain from Coursera course.
+Smart Contracts : https://www.coursera.org/learn/smarter-contracts/home/welcome
