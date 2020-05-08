@@ -296,3 +296,11 @@ My-Projects/HackerEarth : https://github.com/shashwat9kumar/My-Projects/tree/mas
 
 Studied about smart contract in Etherium Blockchain from Coursera course.
 Smart Contracts : https://www.coursera.org/learn/smarter-contracts/home/welcome
+
+
+
+
+## Day 33 : 8th May, 2020
+Studied HTML 5 and CSS 3 from coursera course and uploaded the codes on github repository:
+Web-Development-Specialization/HTML 5 : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
+Introduction to CSS3 (University of Michigan) : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
