@@ -312,3 +312,10 @@ Introduction to CSS3 (University of Michigan) : https://github.com/shashwat9kuma
 Studied HTML 5 and CSS 3 from coursera course and uploaded the codes on github repository:
 Web-Development-Specialization/HTML 5 : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
 Introduction to CSS3 (University of Michigan) : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
+
+
+
+
+## Day 35 : 10th May, 2020
+Studied Data Structures (Arrays and Strings) for competitive programming from the book 'Cracking the Coding Interview' by 'Gayle Laakmann McDowell' 
+Link for the book : https://github.com/alxerg/Books-1/blob/master/Cracking%20the%20Coding%20Interview%2C%206th%20Edition%20189%20Programming%20Questions%20and%20Solutions.pdf
