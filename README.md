@@ -319,3 +319,14 @@ Introduction to CSS3 (University of Michigan) : https://github.com/shashwat9kuma
 ## Day 35 : 10th May, 2020
 Studied Data Structures (Arrays and Strings) for competitive programming from the book 'Cracking the Coding Interview' by 'Gayle Laakmann McDowell' 
 Link for the book : https://github.com/alxerg/Books-1/blob/master/Cracking%20the%20Coding%20Interview%2C%206th%20Edition%20189%20Programming%20Questions%20and%20Solutions.pdf
+
+
+
+
+## Day 36 : 11th May, 2020
+Studied HTML 5 and CSS 3 from coursera course and uploaded the codes on github repository :
+Web-Development-Specialization/HTML 5 : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
+Introduction to CSS3 (University of Michigan) : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
+
+Studied Strings and Arrays in Data Structures and uploaded the code on github repository :
+Competitive_programming/Cracking_The_Coding_Interview : https://github.com/shashwat9kumar/Competitive_programming/tree/master/Cracking_The_Coding_Interview/Data_Structures/
