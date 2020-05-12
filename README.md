@@ -330,3 +330,12 @@ Introduction to CSS3 (University of Michigan) : https://github.com/shashwat9kuma
 
 Studied Strings and Arrays in Data Structures and uploaded the code on github repository :
 Competitive_programming/Cracking_The_Coding_Interview : https://github.com/shashwat9kumar/Competitive_programming/tree/master/Cracking_The_Coding_Interview/Data_Structures/
+
+
+
+
+## Day 37 : 12th May, 2020
+Studied Strings and Arrays in Data Structures and uploaded the code on github repository :
+Competitive_programming/Cracking_The_Coding_Interview : https://github.com/shashwat9kumar/Competitive_programming/tree/master/Cracking_The_Coding_Interview/Data_Structures/
+
+Successfully solved the challenge for google foobar level 1. Now currently on level 2. 
