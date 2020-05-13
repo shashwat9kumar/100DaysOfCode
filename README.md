@@ -339,3 +339,11 @@ Studied Strings and Arrays in Data Structures and uploaded the code on github re
 Competitive_programming/Cracking_The_Coding_Interview : https://github.com/shashwat9kumar/Competitive_programming/tree/master/Cracking_The_Coding_Interview/Data_Structures/
 
 Successfully solved the challenge for google foobar level 1. Now currently on level 2. 
+
+
+
+
+## Day 38 : 13th May, 2020
+Studied HTML 5 and CSS 3 from coursera course and uploaded the codes on github repository :
+Web-Development-Specialization/HTML 5 : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
+Introduction to CSS3 (University of Michigan) : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
