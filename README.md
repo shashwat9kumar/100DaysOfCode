@@ -355,3 +355,14 @@ Introduction to CSS3 (University of Michigan) : https://github.com/shashwat9kuma
 Studied HTML 5 and CSS 3 from coursera course and uploaded the codes on github repository :
 Web-Development-Specialization/HTML 5 : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
 Introduction to CSS3 (University of Michigan) : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
+
+
+
+
+## Day 40 : 15th May, 2020
+Studied HTML 5 and CSS 3 from coursera course and uploaded the codes on github repository :
+Web-Development-Specialization/HTML 5 : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
+Introduction to CSS3 (University of Michigan) : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
+
+Studied Recursion and Dynamic Programming and uploaded the codes on github repository :
+Competitive_programming/Cracking_The_Coding_Interview : https://github.com/shashwat9kumar/Competitive_programming/tree/master/Cracking_The_Coding_Interview/Concepts_And_Algorithms/Recursion_And_DP/Triple_Step
