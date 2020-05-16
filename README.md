@@ -366,3 +366,9 @@ Introduction to CSS3 (University of Michigan) : https://github.com/shashwat9kuma
 
 Studied Recursion and Dynamic Programming and uploaded the codes on github repository :
 Competitive_programming/Cracking_The_Coding_Interview : https://github.com/shashwat9kumar/Competitive_programming/tree/master/Cracking_The_Coding_Interview/Concepts_And_Algorithms/Recursion_And_DP/Triple_Step
+
+
+
+
+## Day 41 : 16th May, 2020
+Studied Algorithms and Data Structures from the book Cracking The Coding Interview and tried implementing the concepts in Java.
