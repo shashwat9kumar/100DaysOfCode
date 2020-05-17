@@ -372,3 +372,9 @@ Competitive_programming/Cracking_The_Coding_Interview : https://github.com/shash
 
 ## Day 41 : 16th May, 2020
 Studied Algorithms and Data Structures from the book Cracking The Coding Interview and tried implementing the concepts in Java.
+
+
+
+
+
+## Day 42 : 17th May, 2020
