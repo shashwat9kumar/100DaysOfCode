@@ -378,3 +378,12 @@ Studied Algorithms and Data Structures from the book Cracking The Coding Intervi
 
 
 ## Day 42 : 17th May, 2020
+Participated in google kickstart. Was able to solve 2 problems for the Google Kickstart Round C.
+Check my submission here : https://codingcompetitions.withgoogle.com/kickstart/submissions/000000000019ff43/c2hhc2h3YXQ5a3VtYXI
+
+
+
+
+## Day 43 : 18th May, 2020
+Started programming in JavaScript. Learnt about its history, usage, and variables and types in JavaScript.
+Beginner JavaScript playlist : https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYFJxC9NLJ7dSTI5Z1WWB6K
