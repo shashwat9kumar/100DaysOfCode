@@ -387,3 +387,19 @@ Check my submission here : https://codingcompetitions.withgoogle.com/kickstart/s
 ## Day 43 : 18th May, 2020
 Started programming in JavaScript. Learnt about its history, usage, and variables and types in JavaScript.
 Beginner JavaScript playlist : https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYFJxC9NLJ7dSTI5Z1WWB6K
+
+
+
+
+## Day 44 : 19th May, 2020
+Studied HTML 5 and CSS 3 from coursera course and uploaded the codes on github repository :
+Web-Development-Specialization/HTML 5 : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
+Introduction to CSS3 (University of Michigan) : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
+
+
+
+
+## Day 45 : 20th May, 2020
+Studied HTML 5 and CSS 3 from coursera course and uploaded the codes on github repository :
+Web-Development-Specialization/HTML 5 : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
+Introduction to CSS3 (University of Michigan) : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
