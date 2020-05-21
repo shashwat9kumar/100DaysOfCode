@@ -403,3 +403,14 @@ Introduction to CSS3 (University of Michigan) : https://github.com/shashwat9kuma
 Studied HTML 5 and CSS 3 from coursera course and uploaded the codes on github repository :
 Web-Development-Specialization/HTML 5 : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
 Introduction to CSS3 (University of Michigan) : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
+
+
+
+
+## Day 46 : 21st May, 2020
+Studied HTML 5 and CSS 3 from coursera course and uploaded the codes on github repository :
+Web-Development-Specialization/HTML 5 : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
+Introduction to CSS3 (University of Michigan) : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
+
+Continued learning JavaScript. Learnt about data types in JavaScript and the comparison operators.
+Beginner JavaScript playlist : https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYFJxC9NLJ7dSTI5Z1WWB6K
