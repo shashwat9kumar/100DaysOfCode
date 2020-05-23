@@ -422,3 +422,10 @@ Beginner JavaScript playlist : https://www.youtube.com/playlist?list=PLqq-6Pq4lT
 Studied HTML 5 and CSS 3 from coursera course and uploaded the codes on github repository :
 Web-Development-Specialization/HTML 5 : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
 Introduction to CSS3 (University of Michigan) : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
+
+
+
+
+## Day 48 : 23rd May, 2020
+Solved problems on Hackerrank. Took part in the All India Contest by Mission Helix
+Competitive_programming/All India Contest by Mission Helix : https://github.com/shashwat9kumar/Competitive_programming/tree/master/All%20India%20Contest%20by%20Mission%20Helix
