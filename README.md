@@ -429,3 +429,6 @@ Introduction to CSS3 (University of Michigan) : https://github.com/shashwat9kuma
 ## Day 48 : 23rd May, 2020
 Solved problems on Hackerrank. Took part in the All India Contest by Mission Helix
 Competitive_programming/All India Contest by Mission Helix : https://github.com/shashwat9kumar/Competitive_programming/tree/master/All%20India%20Contest%20by%20Mission%20Helix
+
+
+lazy day today #DayOff
