@@ -444,7 +444,7 @@ Introduction to CSS3 (University of Michigan) : https://github.com/shashwat9kuma
 
 
 
-## Day 49 : 25th May, 2020
+## Day 50 : 26th May, 2020
 Studied HTML 5 and CSS 3 from coursera course and uploaded the codes on github repository :
 Web-Development-Specialization/HTML 5 : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
 Introduction to CSS3 (University of Michigan) : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
@@ -452,3 +452,15 @@ Introduction to CSS3 (University of Michigan) : https://github.com/shashwat9kuma
 Took part in Code Gladiators. The coding contest took place at : https://www.techgig.com/codegladiators/opencontest
 Submitted the code on github repository. 
 Competitive_programming/Code Gladiators : https://github.com/shashwat9kumar/Competitive_programming/tree/master/Code%20Gladiators
+
+
+
+
+## Day 51 : 27th May, 2020
+Studied HTML 5 and CSS 3 from coursera course and uploaded the codes on github repository :
+Web-Development-Specialization/HTML 5 : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
+Introduction to CSS3 (University of Michigan) : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/HTML%205
+
+Studied graph theory algorithms in C++ using C++ STL.
+Uploaded the cod on github repository.
+Competitive_programming/C++ : https://github.com/shashwat9kumar/Competitive_programming/tree/master/c%2B%2B/graph%20theory
