@@ -464,3 +464,17 @@ Introduction to CSS3 (University of Michigan) : https://github.com/shashwat9kuma
 Studied graph theory algorithms in C++ using C++ STL.
 Uploaded the cod on github repository.
 Competitive_programming/C++ : https://github.com/shashwat9kumar/Competitive_programming/tree/master/c%2B%2B/graph%20theory
+
+
+
+
+## Day 52 : 28th May, 2020
+Started studying CSS from freecodecamp 30 Day CSS 
+30 Day CSS playlist (freecodecamp) : https://www.youtube.com/playlist?list=PLWKjhJtqVAbl1AfjiGyYxwpdAPi5v-1OU
+Web-Development-Specialization/CSS 3/freecodecamp : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/CSS%203/freecodecamp
+
+Solved problems of C++ on HackerRank and uploaded the code on github repostitory
+Hackerrank-cpp : https://github.com/shashwat9kumar/Hackerrank-cpp
+
+Solved the Project Euler problem on Hackerrank. Solved the perfect right triangle problem.
+HackerRank_Project_Euler : https://github.com/shashwat9kumar/HackerRank_Project_Euler
