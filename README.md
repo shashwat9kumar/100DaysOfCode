@@ -478,3 +478,11 @@ Hackerrank-cpp : https://github.com/shashwat9kumar/Hackerrank-cpp
 
 Solved the Project Euler problem on Hackerrank. Solved the perfect right triangle problem.
 HackerRank_Project_Euler : https://github.com/shashwat9kumar/HackerRank_Project_Euler
+
+
+
+
+## Day 53 : 29th May, 2020
+Continued studying CSS from freecodecamp 30 Day CSS 
+30 Day CSS playlist (freecodecamp) : https://www.youtube.com/playlist?list=PLWKjhJtqVAbl1AfjiGyYxwpdAPi5v-1OU
+Web-Development-Specialization/CSS 3/freecodecamp : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/CSS%203/freecodecamp
