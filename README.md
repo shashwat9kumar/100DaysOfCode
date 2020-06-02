@@ -492,12 +492,25 @@ Web-Development-Specialization/CSS 3/freecodecamp : https://github.com/shashwat9
 
 
 ## Day 54 : 30th May, 2020
+Continued studying CSS from freecodecamp 30 Day CSS 
+30 Day CSS playlist (freecodecamp) : https://www.youtube.com/playlist?list=PLWKjhJtqVAbl1AfjiGyYxwpdAPi5v-1OU
+Web-Development-Specialization/CSS 3/freecodecamp : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/CSS%203/freecodecamp
+
+
+## Day 55 : 31st May, 2020
+Solved Problems on Hackerrank and uploaded the code  on Github repository.
+Hackerrank-cpp : https://github.com/shashwat9kumar/Hackerrank-cpp
+
+
+## Day 56 : 1st June, 2020
+Lazy Day today. It was a day off ;)
 
 
 
-## Day 54 : 30th May, 2020
+## Day 57 : 2nd June, 2020
+Continued studying CSS from freecodecamp 30 Day CSS 
+30 Day CSS playlist (freecodecamp) : https://www.youtube.com/playlist?list=PLWKjhJtqVAbl1AfjiGyYxwpdAPi5v-1OU
+Web-Development-Specialization/CSS 3/freecodecamp : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/CSS%203/freecodecamp
 
-
-
-
-## Day 54 : 30th May, 2020
+Solved questions on CodeChef for the DSA learning series and uploaded the code on github repository
+Competitive_programming/CodeChef/DSA-Learning-Series/Basic-Warm-Up : https://github.com/shashwat9kumar/Competitive_programming/tree/master/CodeChef/DSA-Learning-Series/Basic-Warm-Up
