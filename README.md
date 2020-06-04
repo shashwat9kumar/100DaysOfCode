@@ -521,3 +521,10 @@ Competitive_programming/CodeChef/DSA-Learning-Series/Basic-Warm-Up : https://git
 ## Day 58 : 3rd June, 2020
 Solved questions on CodeChef for the DSA learning series and uploaded the code on github repository
 Competitive_programming/CodeChef/DSA-Learning-Series/Basic-Warm-Up : https://github.com/shashwat9kumar/Competitive_programming/tree/master/CodeChef/DSA-Learning-Series/Basic-Warm-Up
+
+
+
+
+## Day 59 : 4th June, 2020
+Solved questions on CodeChef for the DSA learning series and uploaded the code on github repository
+Competitive_programming/CodeChef/DSA-Learning-Series/Basic-Warm-Up : https://github.com/shashwat9kumar/Competitive_programming/tree/master/CodeChef/DSA-Learning-Series/Basic-Warm-Up
