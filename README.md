@@ -536,3 +536,10 @@ Competitive_programming/CodeChef/DSA-Learning-Series/Basic-Warm-Up : https://git
 Continued studying CSS from freecodecamp 30 Day CSS 
 30 Day CSS playlist (freecodecamp) : https://www.youtube.com/playlist?list=PLWKjhJtqVAbl1AfjiGyYxwpdAPi5v-1OU
 Web-Development-Specialization/CSS 3/freecodecamp : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/CSS%203/freecodecamp
+
+
+
+
+## Day 61 : 6th June, 2020
+Solved questions on CodeChef for the June Challenge and uploaded the code on github repository
+Competitive_programming/CodeChef/June2020/June Challenge Div 2 : https://github.com/shashwat9kumar/Competitive_programming/tree/master/CodeChef/June2020/June%20Challenge%20Div%202
