@@ -550,3 +550,8 @@ Competitive_programming/CodeChef/June2020/June Challenge Div 2 : https://github.
 ## Day 62 : 7th June, 2020
 Solved questions on CodeChef for the June Challenge and uploaded the code on github repository
 Competitive_programming/CodeChef/June2020/June Challenge Div 2 : https://github.com/shashwat9kumar/Competitive_programming/tree/master/CodeChef/June2020/June%20Challenge%20Div%202
+
+
+
+
+## Day 63 : 8th June, 2020
