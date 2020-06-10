@@ -572,6 +572,6 @@ Web-Development-Specialization/CSS 3/freecodecamp : https://github.com/shashwat9
 
 
 ## Day 65 : 10th June, 2020
-Continued studying CSS from freecodecamp 30 Day CSS 
+Continued working on simple display details project
 30 Day CSS playlist (freecodecamp) : https://www.youtube.com/playlist?list=PLWKjhJtqVAbl1AfjiGyYxwpdAPi5v-1OU
-Web-Development-Specialization/CSS 3/freecodecamp : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/CSS%203/freecodecamp
+Web-Development-Specialization/Projects : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/Projects
