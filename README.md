@@ -570,7 +570,6 @@ Web-Development-Specialization/CSS 3/freecodecamp : https://github.com/shashwat9
 
 
 
-
 ## Day 65 : 10th June, 2020
 Continued working on simple display details project
 Full Screen Video Background - HTML & CSS (Traversy Media) : https://www.youtube.com/watch?v=Gx_7GQtSdpc&list=PLSbH2AaDHkP1Ax00Qm0ejkvw4nl0bBD6M&index=14&t=0s
