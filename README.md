@@ -574,3 +574,11 @@ Web-Development-Specialization/CSS 3/freecodecamp : https://github.com/shashwat9
 Continued working on simple display details project
 Full Screen Video Background - HTML & CSS (Traversy Media) : https://www.youtube.com/watch?v=Gx_7GQtSdpc&list=PLSbH2AaDHkP1Ax00Qm0ejkvw4nl0bBD6M&index=14&t=0s
 Web-Development-Specialization/Projects : https://github.com/shashwat9kumar/Web-Development-Specialization/tree/master/Projects
+
+
+
+
+
+## Day 66 : 11th June, 2020
+Studied graph theory from the course of feecodecamp
+Algorithms Course - Graph Theory Tutorial : https://www.youtube.com/watch?v=09_LlHjoEiY&t=1659s
