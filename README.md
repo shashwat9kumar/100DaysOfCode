@@ -630,3 +630,9 @@ Algorithms Course - Graph Theory Tutorial : https://www.youtube.com/watch?v=09_L
 
 ## Day 73 : 19th June, 2020
 Studied Data Communication and Nettworking
+
+
+
+
+## Day 74 : 20th June, 2020
+Studied Data Communication and Nettworking
