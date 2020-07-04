@@ -636,3 +636,59 @@ Studied Data Communication and Nettworking
 
 ## Day 74 : 20th June, 2020
 Studied Data Communication and Nettworking
+
+
+
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+
+****************************************************
+                PENALTY DURATION
+****************************************************
+
+
+
+
+
+
+
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+
+
+## Day 65 : 2nd June, 2020
+Studied 
+
+
+
+
+## Day 66 : 3rd June, 2020
+Studied
+
+
+
+
+# Day 67 : 4th June, 2020
+Studied..
