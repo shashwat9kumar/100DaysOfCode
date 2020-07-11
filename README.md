@@ -711,3 +711,9 @@ Hackerrank-cpp : https://github.com/shashwat9kumar/Hackerrank-cpp
 
 ## Day 70 : 10th June, 2020
 Java exam....
+
+
+
+
+## Day 71 : 12th June, 2020
+Maven
